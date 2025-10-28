@@ -62,8 +62,8 @@ By combining these two branches, the models can produce visually pleasing and ph
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://your-repository-url.com
-    cd your-repository-directory
+    git clone https://github.com/Butcher2003/underwater-enhancement
+    cd underwater-enhancement
     ```
 
 2.  **Install the required packages:**
